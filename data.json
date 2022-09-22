@@ -1,0 +1,103 @@
+[
+    {
+      "bookId": 1,
+      "imgUrl": "https://hackr.io/blog/uploads/images/clean-code-a-handbook-of-agile-software-craftsmanship-1st-edition.jpg",
+      "Name": "Clean-Code",
+      "Author": "Robert C. Martin",
+      "Category": "software",
+      "QuantityAvailable": 10,
+      "Price": 580,
+      "Address": "Address 1"
+    },
+    {
+      "bookId": 2,
+      "imgUrl": "https://hackr.io/blog/uploads/images/introduction-to-algorithms-eastern-economy-edition.jpg",
+      "Name": "Algorithms",
+      "Author": "Thomas H. Cormen",
+      "Category": "Algorithm",
+      "QuantityAvailable": 10,
+      "Price": 720,
+      "Address": "Address 2"
+    },
+    {
+      "bookId": 3,
+      "imgUrl": "https://hackr.io/blog/uploads/images/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science1.jpg",
+      "Name": "SICP",
+      "Author": "Harold Abelson",
+      "Category": "Programings",
+      "QuantityAvailable": 10,
+      "Price": 950,
+      "Address": "Address 3"
+    },
+    {
+      "bookId": 4,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41eX2-vkVxL._SX348_BO1,204,203,200_.jpg",
+      "Name": "Oracle Database 12C",
+      "Author": "Byrla",
+      "Category": "Database",
+      "QuantityAvailable": 10,
+      "Price": 5360,
+      "Address": "Address 4"
+    },
+    {
+      "bookId": 5,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/612yOEEZbmL.jpg",
+      "Name": "SQL Database",
+      "Author": "Josephine Bush",
+      "Category": "Database",
+      "QuantityAvailable": 10,
+      "Price": 2600,
+      "Address": "Address 5"
+    },
+    {
+      "bookId": 6,
+      "imgUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0714/9780071494458.jpg",
+      "Name": "Oracle PL/SQL",
+      "Author": "Kevin Owens",
+      "Category": "Database",
+      "QuantityAvailable": 10,
+      "Price": 4100,
+      "Address": "Address 6"
+    },
+    {
+      "bookId": 7,
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81pgYscxh-L.jpg",
+      "Name": "Ethical Hacking",
+      "Author": "Harsh Bothra",
+      "Category": "Hacking",
+      "QuantityAvailable": 10,
+      "Price": 8100,
+      "Address": "Address 7"
+    },
+    {
+      "bookId": 8,
+      "imgUrl": "https://m.media-amazon.com/images/I/41KK4-rbAuL.jpg",
+      "Name": "Cyber Security",
+      "Author": "Abhinav Ojha",
+      "Category": "Hacking",
+      "QuantityAvailable": 10,
+      "Price": 4000,
+      "Address": "Address 8"
+    },
+    {
+      "bookId": 9,
+      "imgUrl": "https://m.media-amazon.com/images/I/51nAQzY4YjL.jpg",
+      "Name": "C#",
+      "Author": "Mark j.",
+      "Category": "Programing",
+      "QuantityAvailable": 10,
+      "Price": 3500,
+      "Address": "Address 9"
+    },
+    {
+      "bookId": 10,
+      "imgUrl": "https://m.media-amazon.com/images/P/B07CVM27L9.01._SCLZZZZZZZ_SX500_.jpg",
+      "Name": "ASP .NET",
+      "Author": "Dino Esposito",
+      "Category": "Programing",
+      "QuantityAvailable": 10,
+      "Price": 2100,
+      "Address": "Address 10"
+    }
+   
+]
